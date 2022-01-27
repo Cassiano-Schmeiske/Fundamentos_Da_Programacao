@@ -1,7 +1,7 @@
 
 # Fundamentos_Da_Programacao
 
-O principal objetivo deste repositório é manter de forma organizada os métodos ensinados no curso de Python 3 do site <br /> "Curso em Vídeo"  ministrado pelo Professor Gustavo Guanabara. 
+O principal objetivo deste repositório é manter de forma organizada os métodos ensinados no curso de Python 3 do site "Curso em Vídeo"  ministrado pelo Professor Gustavo Guanabara. 
 
 O site do Curso em video pode ser acessado aqui: https://www.cursoemvideo.com/
 
