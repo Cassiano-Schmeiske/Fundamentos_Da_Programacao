@@ -9,7 +9,7 @@ O site do Curso em video pode ser acessado aqui: https://www.cursoemvideo.com/
 <img src="https://user-images.githubusercontent.com/94291995/151412390-46d21033-6315-47d5-bec8-0cb43832a6a3.png" />
 </div>
 
-O curso foi concluído até o 3º mundo com 115 exercícios práticos. Abaixo uma lista dos capítulos concluídos:
+Curso concluído até o 3º mundo. Abaixo uma lista dos capítulos concluídos:
 
 ### Mundo 1
 Exercícios 01 ao 15 - Tratando dados e fazendo contas<br />
