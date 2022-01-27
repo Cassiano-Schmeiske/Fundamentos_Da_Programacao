@@ -5,6 +5,8 @@ O principal objetivo deste repositório é manter de forma organizada os método
 
 O site do Curso em video pode ser acessado aqui: https://www.cursoemvideo.com/
 
+https://github.com/Cassiano-Schmeiske/Fundamentos_Da_Programacao/issues/1#issue-1116556574
+
 O curso foi concluído até o 3º mundo com 115 exercícios práticos. Abaixo uma lista dos capítulos concluídos:
 
 ### Mundo 1
